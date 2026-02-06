@@ -25,7 +25,7 @@
 | 17.01.2026 | Лекция: [Основные понятия машинного обучения by Евгений Андреевич Соколов](01_intro/lecture01-intro_removed.pdf). Семинар: [статистические тесты.](https://colab.research.google.com/drive/1YCVg1zV61-piG9e2TyghdQK_YxRuZXvr?usp=sharing) | НЕТ ДЗ |
 | 24.01.2026 | KNN, [лекция от VK Образования](02_knn/lecture0_1.pdf), [семинар](https://colab.research.google.com/drive/1Mgz5rvqORegcPazf8sHslJaIQIDRvRO-?usp=sharing) | [ДЗ1, дедлайн 8 февраля 23:59](02_knn/hw_knn.ipynb) |
 | 31.01.2026 | [Семинар, пишем KNN]((https://colab.research.google.com/drive/1XLBDXJfN-trdtc4bHr6zoXb1WWljEhKO?usp=sharing)). [Лекция: метрики, кросс-валидация](02_knn/lecture0_1.pdf) | НЕТ ДЗ |
-| 07.02.2026 | Линейная регрессия, [огромный конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [конспект попроще от karpov.courses](03_linreg/Линейная_регрессия.pdf) | |
+| 07.02.2026 | Линейная регрессия, [огромный конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [конспект попроще от karpov.courses](03_linreg/Линейная_регрессия.pdf), [семинар](https://colab.research.google.com/drive/1U_P2LSzyDNzz4tnxZi568uGcgwZK7c60?usp=sharing) | [ДЗ2, дедлайн **15 февраля 23:59**](https://colab.research.google.com/drive/1E6WMUiF6ffl693EFBN8LZumTay_SPrf3?usp=sharing) |
 | 14.02.2026 | Линейная регрессия-2: градиентный спуск, переобучение, регуляризация  | |
 | 21.02.2026 | Переобучение, регуляризация | |
 | 28.02.2026 | Линейная классификация | |
