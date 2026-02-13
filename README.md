@@ -26,10 +26,10 @@
 | 24.01.2026 | KNN, [лекция от VK Образования](02_knn/lecture0_1.pdf), [семинар](https://colab.research.google.com/drive/1Mgz5rvqORegcPazf8sHslJaIQIDRvRO-?usp=sharing) | [ДЗ1, дедлайн 8 февраля 23:59](02_knn/hw_knn.ipynb) |
 | 31.01.2026 | [Семинар, пишем KNN]((https://colab.research.google.com/drive/1XLBDXJfN-trdtc4bHr6zoXb1WWljEhKO?usp=sharing)). [Лекция: метрики, кросс-валидация](02_knn/lecture0_1.pdf) | НЕТ ДЗ |
 | 07.02.2026 | Линейная регрессия, [огромный конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [конспект попроще от karpov.courses](03_linreg/Линейная_регрессия.pdf), [семинар](https://colab.research.google.com/drive/1U_P2LSzyDNzz4tnxZi568uGcgwZK7c60?usp=sharing) | [ДЗ2, дедлайн **15 февраля 23:59**](https://colab.research.google.com/drive/1E6WMUiF6ffl693EFBN8LZumTay_SPrf3?usp=sharing) |
-| 14.02.2026 | Линейная регрессия-2: градиентный спуск, переобучение, регуляризация  | |
-| 21.02.2026 | Переобучение, регуляризация | |
-| 28.02.2026 | Линейная классификация | |
-| 07.03.2026 | Линейная классификация-2 | |
+| 14.02.2026 | Линейная регрессия-2: градиентный спуск, переобучение, регуляризация. [Тот же конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [семинар - квартиры в Москве](https://colab.research.google.com/drive/1iYn-ZpLHbAr_lIg_QKFZHhcSggd8Vky7?usp=sharing)  | [ДЗ3, соревнование на Kaggle, **28 февраля 23:55**](https://www.kaggle.com/t/59c10f6b6d81490f9ce2d24a6071c9a6) |
+| 21.02.2026 | Линейная классификация | |
+| 28.02.2026 | Линейная классификация-2 | |
+| 07.03.2026 | Еще какая-нибудь классификация | |
 | 14.03.2026 | Работа с текстом | |
 | 21.03.2026 | КР1 | |
 | 28.03.2026 | КАНИКУЛЫ | |
