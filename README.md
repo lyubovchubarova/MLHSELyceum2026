@@ -28,9 +28,9 @@
 | 07.02.2026 | Линейная регрессия, [огромный конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [конспект попроще от karpov.courses](03_linreg/Линейная_регрессия.pdf), [семинар](https://colab.research.google.com/drive/1U_P2LSzyDNzz4tnxZi568uGcgwZK7c60?usp=sharing) | [ДЗ2, дедлайн **15 февраля 23:59**](https://colab.research.google.com/drive/1E6WMUiF6ffl693EFBN8LZumTay_SPrf3?usp=sharing) |
 | 14.02.2026 | Линейная регрессия-2: градиентный спуск, переобучение, регуляризация. [Тот же конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [семинар - квартиры в Москве](https://colab.research.google.com/drive/1iYn-ZpLHbAr_lIg_QKFZHhcSggd8Vky7?usp=sharing)  | [ДЗ3, соревнование на Kaggle, **28 февраля 23:55**](https://www.kaggle.com/t/59c10f6b6d81490f9ce2d24a6071c9a6) |
 | 21.02.2026 | Линейная классификация, [конспект от VK Образования](04_logreg/LogReg.pdf), [конспект по метрикам от ФКН ВШЭ](04_logreg/lecture09-linclass.pdf), [семинар](https://colab.research.google.com/drive/1xcM_RG1bElTRQ0XUwU_H6bTgp8Eu2myJ?usp=sharing) | НЕТ ДЗ |
-| 28.02.2026 | Линейная классификация-2 | |
-| 07.03.2026 | Еще какая-нибудь классификация | |
-| 14.03.2026 | Работа с текстом | |
+| 28.02.2026 | Работа с текстом, [презентация](05_nlp/NLP_masterclass.pdf). Дополнительно: про методы снижения размерности, [презентация](additional_dimension_reduction/Dimensionality_Reduction.pdf). [**Семинар**](https://colab.research.google.com/drive/19Iv4vPUJLLXK0rpQjwT1bR7JX5WafG1N?usp=sharing)| ДЗ |
+| 07.03.2026 | Мультиклассовая линейная классификация | |
+| 14.03.2026 | - | |
 | 21.03.2026 | КР1 | |
 | 28.03.2026 | КАНИКУЛЫ | |
 | 04.04.2026 | Кластеризация | |
