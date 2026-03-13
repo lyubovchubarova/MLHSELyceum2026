@@ -31,7 +31,7 @@
 | 28.02.2026 | Метрики для сравнения мягких классификаторов. Работа с текстом, [презентация](05_nlp/NLP_masterclass.pdf). [**Семинар**](https://colab.research.google.com/drive/19Iv4vPUJLLXK0rpQjwT1bR7JX5WafG1N?usp=sharing)|  |
 | 07.03.2026 | [**КВИЗ**](https://forms.gle/iqHgTZuz2Z5oGcGd7) Более подробно про тексты c практикой [презентация](05_nlp/NLP_masterclass.pdf), [семинар 1, основные библиотеки](https://colab.research.google.com/drive/1AGdRiejP9SqkIuOc1U8fHVyDce1Ap1z1?usp=sharing), [семинар 2](https://colab.research.google.com/drive/17xPvJTvbXoprPPj4ZjPHyOIQyt2_4hCM?usp=sharing). Дополнительно: про методы снижения размерности, [презентация](additional_dimension_reduction/Dimensionality_Reduction.pdf). | [ДЗ, классификация отзывов](https://www.kaggle.com/t/e1a68f9f0b38488a9b320a842f06b0c4), **дедлайн 22 марта 23:55** |
 | 14.03.2026 | Метод опорных векторов. Многоклассовая классификация. [**Теория**](06_svm/THEORY.md), [практика (оценивается как ДЗ)](06_svm/logreg_vs_svm.ipynb). [Форма для сдачи практики](https://forms.gle/Qs95xm5adUDBtB2e8) - закрывается в 14:00 14 марта. | |
-| 21.03.2026 | КР1. Асинхронно. | |
+| 21.03.2026 | [КР1. Асинхронно.](https://www.kaggle.com/t/9391a8d22a854144801f376d4bdfe45d) | |
 | 28.03.2026 | КАНИКУЛЫ | |
 | 04.04.2026 | Кластеризация | |
 | 11.04.2026 | Деревья | |
