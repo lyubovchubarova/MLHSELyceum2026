@@ -34,7 +34,7 @@
 | 21.03.2026 | [КР1. Асинхронно.](https://www.kaggle.com/t/9391a8d22a854144801f376d4bdfe45d) | |
 | 28.03.2026 | КАНИКУЛЫ | |
 | 04.04.2026 | Кластеризация, [лекция](07_clustering/Lecture06-clustering.pdf), [семинар](https://colab.research.google.com/drive/1V8Y6xrxa_rtwKt5WMdzUM7BrW31V8JYP?usp=sharing) | |
-| 11.04.2026 | Деревья | |
+| 11.04.2026 | Деревья, [лекция](08_decision_trees/vk_lecture.pdf), [семинар](https://colab.research.google.com/drive/17rweqNoosRUt5-3wl1FfX74ZWxsZDrp3?usp=sharing). Переписывание квизов | |
 | 18.04.2026 | Ансамбли | |
 | 25.04.2026 | Бустинги | |
 | 02.05.2026 | ВЫХОДНОЙ | |
