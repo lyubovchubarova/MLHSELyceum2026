@@ -35,7 +35,7 @@
 | 28.03.2026 | КАНИКУЛЫ | |
 | 04.04.2026 | Кластеризация, [лекция](07_clustering/Lecture06-clustering.pdf), [семинар](https://colab.research.google.com/drive/1V8Y6xrxa_rtwKt5WMdzUM7BrW31V8JYP?usp=sharing) | ДЗ5, кластеризация. Дедлайн **3 мая 23:59** |
 | 11.04.2026 | Деревья, [лекция](08_decision_trees/vk_lecture.pdf), [семинар](https://colab.research.google.com/drive/17rweqNoosRUt5-3wl1FfX74ZWxsZDrp3?usp=sharing). Переписывание квизов | нет ДЗ |
-| 18.04.2026 | Ансамбли. [Презентация от ВК](09_ensembles/vk_ensembles.pdf), [конспект от ФКН ВШЭ](09_ensembles/sokolov_ensembles.pdf). Семинар | [ДЗ6, реализация Random Forest](09_ensembles/hw_random_forest.ipynb), дедлайн **3 мая 23:59**|
+| 18.04.2026 | Ансамбли. [Презентация от ВК](09_ensembles/vk_ensembles.pdf), [конспект от ФКН ВШЭ](09_ensembles/sokolov_ensembles.pdf). [Семинар](https://colab.research.google.com/drive/1zU-dYHsCypvyn8oWpPqeQg7RE9ZpQMx1?usp=sharing) | [ДЗ6, реализация Random Forest](09_ensembles/hw_random_forest.ipynb), дедлайн **3 мая 23:59**|
 | 25.04.2026 | Бустинги | нет ДЗ |
 | 02.05.2026 | ВЫХОДНОЙ | |
 | 09.05.2026 | ВЫХОДНОЙ | |
