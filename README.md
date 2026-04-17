@@ -29,14 +29,14 @@
 | 14.02.2026 | Линейная регрессия-2: градиентный спуск, переобучение, регуляризация. [Тот же конспект от ИАДа ВШЭ](03_linreg/full_regression_by_sokolov.pdf), [семинар - квартиры в Москве](https://colab.research.google.com/drive/1iYn-ZpLHbAr_lIg_QKFZHhcSggd8Vky7?usp=sharing)  | [ДЗ3, соревнование на Kaggle, **28 февраля 23:55**](https://www.kaggle.com/t/59c10f6b6d81490f9ce2d24a6071c9a6) |
 | 21.02.2026 | Линейная классификация, [конспект от VK Образования](04_logreg/LogReg.pdf), [конспект по метрикам от ФКН ВШЭ](04_logreg/lecture09-linclass.pdf), [семинар](https://colab.research.google.com/drive/1xcM_RG1bElTRQ0XUwU_H6bTgp8Eu2myJ?usp=sharing) | НЕТ ДЗ |
 | 28.02.2026 | Метрики для сравнения мягких классификаторов. Работа с текстом, [презентация](05_nlp/NLP_masterclass.pdf). [**Семинар**](https://colab.research.google.com/drive/19Iv4vPUJLLXK0rpQjwT1bR7JX5WafG1N?usp=sharing)|  |
-| 07.03.2026 | [**КВИЗ**](https://forms.gle/iqHgTZuz2Z5oGcGd7) Более подробно про тексты c практикой [презентация](05_nlp/NLP_masterclass.pdf), [семинар 1, основные библиотеки](https://colab.research.google.com/drive/1AGdRiejP9SqkIuOc1U8fHVyDce1Ap1z1?usp=sharing), [семинар 2](https://colab.research.google.com/drive/17xPvJTvbXoprPPj4ZjPHyOIQyt2_4hCM?usp=sharing). Дополнительно: про методы снижения размерности, [презентация](additional_dimension_reduction/Dimensionality_Reduction.pdf). | [ДЗ, классификация отзывов](https://www.kaggle.com/t/e1a68f9f0b38488a9b320a842f06b0c4), **дедлайн 22 марта 23:55** |
+| 07.03.2026 | [**КВИЗ**](https://forms.gle/iqHgTZuz2Z5oGcGd7) Более подробно про тексты c практикой [презентация](05_nlp/NLP_masterclass.pdf), [семинар 1, основные библиотеки](https://colab.research.google.com/drive/1AGdRiejP9SqkIuOc1U8fHVyDce1Ap1z1?usp=sharing), [семинар 2](https://colab.research.google.com/drive/17xPvJTvbXoprPPj4ZjPHyOIQyt2_4hCM?usp=sharing). Дополнительно: про методы снижения размерности, [презентация](additional_dimension_reduction/Dimensionality_Reduction.pdf). | [ДЗ4, классификация отзывов](https://www.kaggle.com/t/e1a68f9f0b38488a9b320a842f06b0c4), **дедлайн 22 марта 23:55** |
 | 14.03.2026 | Метод опорных векторов. Многоклассовая классификация. [**Теория**](06_svm/THEORY.md), [практика (оценивается как ДЗ)](06_svm/logreg_vs_svm.ipynb). [Форма для сдачи практики](https://forms.gle/Qs95xm5adUDBtB2e8) - закрывается в 14:00 14 марта. | |
 | 21.03.2026 | [КР1. Асинхронно.](https://www.kaggle.com/t/9391a8d22a854144801f376d4bdfe45d) | |
 | 28.03.2026 | КАНИКУЛЫ | |
-| 04.04.2026 | Кластеризация, [лекция](07_clustering/Lecture06-clustering.pdf), [семинар](https://colab.research.google.com/drive/1V8Y6xrxa_rtwKt5WMdzUM7BrW31V8JYP?usp=sharing) | |
-| 11.04.2026 | Деревья, [лекция](08_decision_trees/vk_lecture.pdf), [семинар](https://colab.research.google.com/drive/17rweqNoosRUt5-3wl1FfX74ZWxsZDrp3?usp=sharing). Переписывание квизов | |
-| 18.04.2026 | Ансамбли | |
-| 25.04.2026 | Бустинги | |
+| 04.04.2026 | Кластеризация, [лекция](07_clustering/Lecture06-clustering.pdf), [семинар](https://colab.research.google.com/drive/1V8Y6xrxa_rtwKt5WMdzUM7BrW31V8JYP?usp=sharing) | ДЗ5, кластеризация. Дедлайн **3 мая 23:59** |
+| 11.04.2026 | Деревья, [лекция](08_decision_trees/vk_lecture.pdf), [семинар](https://colab.research.google.com/drive/17rweqNoosRUt5-3wl1FfX74ZWxsZDrp3?usp=sharing). Переписывание квизов | нет ДЗ |
+| 18.04.2026 | Ансамбли. [Презентация от ВК](09_ensembles/vk_ensembles.pdf), [конспект от ФКН ВШЭ](09_ensembles/sokolov_ensembles.pdf). Семинар | [ДЗ6, реализация Random Forest](09_ensembles/hw_random_forest.ipynb), дедлайн **3 мая 23:59**|
+| 25.04.2026 | Бустинги | нет ДЗ |
 | 02.05.2026 | ВЫХОДНОЙ | |
 | 09.05.2026 | ВЫХОДНОЙ | |
 | 16.05.2026 | КР2, [билеты по теории](exam_tickets_theory.md) | |
