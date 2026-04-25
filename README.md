@@ -36,7 +36,7 @@
 | 04.04.2026 | Кластеризация, [лекция](07_clustering/Lecture06-clustering.pdf), [семинар](https://colab.research.google.com/drive/1V8Y6xrxa_rtwKt5WMdzUM7BrW31V8JYP?usp=sharing) | [ДЗ5, кластеризация](https://colab.research.google.com/drive/1Rn4MFdOXBhiU9gEm9HstaOBRTTEidP8W?usp=sharing). Дедлайн **3 мая 23:59** |
 | 11.04.2026 | Деревья, [лекция](08_decision_trees/vk_lecture.pdf), [семинар](https://colab.research.google.com/drive/17rweqNoosRUt5-3wl1FfX74ZWxsZDrp3?usp=sharing). Переписывание квизов | нет ДЗ |
 | 18.04.2026 | Ансамбли. [Презентация от ВК](09_ensembles/vk_ensembles.pdf), [конспект от ФКН ВШЭ](09_ensembles/sokolov_ensembles.pdf). [Семинар](https://colab.research.google.com/drive/1zU-dYHsCypvyn8oWpPqeQg7RE9ZpQMx1?usp=sharing) | [ДЗ6, реализация Random Forest](09_ensembles/hw_random_forest.ipynb), дедлайн **3 мая 23:59**|
-| 25.04.2026 | Бустинги, [презентация](10_boostings/boosting_by_VK (1).pdf), [семинар](https://colab.research.google.com/drive/1GJmoGl95ydr7MvPsvoeXENkRzYizOIi2?usp=sharing) | нет ДЗ |
+| 25.04.2026 | Бустинги, [презентация](10_boostings/boosting_by_VK.pdf), [семинар](https://colab.research.google.com/drive/1GJmoGl95ydr7MvPsvoeXENkRzYizOIi2?usp=sharing) | нет ДЗ |
 | 02.05.2026 | ВЫХОДНОЙ | |
 | 09.05.2026 | ВЫХОДНОЙ | |
 | 16.05.2026 | КР2, [билеты по теории](exam_tickets_theory.md) | |
